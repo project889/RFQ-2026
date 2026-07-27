@@ -1,0 +1,6 @@
+{
+  "name": "Order Tracking & Billing System",
+  "description": "ระบบบันทึกและติดตามงานขาย ใบเสนอราคา และการวางบิลแบ่งงวด (Quotation, Order Tracking & Split Billing Management System)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
